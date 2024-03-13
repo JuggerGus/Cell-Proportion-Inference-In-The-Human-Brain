@@ -1,3 +1,3 @@
-Cell Type Proportion Along The Human Brain
+Cell Proportion Inference In The Human Brain
 
-This codes were used in the paper "Cell Type Proportion Along The Human Brain"
+These codes were used in the paper "Cell Proportion Inference In The Human Brain"
